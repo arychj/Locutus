@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <collectionname>Collection</collectionname>
+  <outputpath>c:\temp\locutus\locutus.xml</outputpath>
+  <tfs>
+    <url>http://tfs.example.org:8080/tfs/collection</url>
+    <workspacepath>c:\temp\locutus\tfs</workspacepath>
+    <update>true</update>
+  </tfs>
+  <parsing>
+    <scope>public protected</scope>
+    <update>true</update>
+    <threads>10</threads>
+  </parsing>
+  <wiki>
+    <update>true</update>
+    <url>http://wiki.example.org</url>
+    <domain></domain>
+    <user>user</user>
+    <password>pass</password>
+    <threads>50</threads>
+    <filters></filters>
+  </wiki>
+  <rundetails>
+    <verbose>false</verbose>
+  </rundetails>
+</config>

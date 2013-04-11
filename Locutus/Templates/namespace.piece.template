@@ -1,0 +1,4 @@
+﻿=== {link} ===
+<span style="color: #999; float: right;">Namespace Count: {countNamespaces} | Class Count: {countClasses}</span>
+
+{description}

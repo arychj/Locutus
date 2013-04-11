@@ -1,0 +1,11 @@
+﻿{{DISPLAYTITLE:{pagetype}: {name}}}
+Ancestry: {ancestry}
+----
+{details}
+
+{description}
+
+{content}
+
+----
+<span style="color: #999; float: right;">Indoctrinated by Source Control at {date}</span>

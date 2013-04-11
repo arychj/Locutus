@@ -1,0 +1,6 @@
+﻿=== [[{link}|{name}]] ===
+Namespaces: {countNamespaces}
+
+Classes: {countClasses}
+
+Methods: {countMethods}
